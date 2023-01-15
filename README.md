@@ -9,13 +9,11 @@
    Sou estudante de Analise e Desenvolvimento de Sistemas na UNIP 
   </p>
   
-</div>
-
-<div align="center">
-  <a href="https://github.com/Ewillianc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ewillianc&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewillianc&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+</div alingn = "center">
+  <img width = "49" height = "195px" src = "https://github-readme-stats.vercel.app/api?
+  username=Ewillianc&show_icon=true&count_private=true&hide_border+true&title_color+ff91a4icon_color=ff91a4&text_color=c9d1d9bg_color=0d11117" alt="Erick Willian github stats"/>
+  <img width= "41%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/? 
+  username=Ewillianc&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <div align="center" valign="top"><br>
