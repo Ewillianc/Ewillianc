@@ -10,10 +10,15 @@
   </p>
   
    
-   
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ewillianc&theme=blue-green&show_icons=true&card_width=1000px (approx.))](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ewillianc&bg_color=0d1117&color=00804b&line=48d1cc&point=005780&area=false&hide_border=true)](https://github.com/ashutosh48d1cc/github-readme-activity-graph)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ewillianc" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ewillianc" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 <div align="center" valign="top"><br>
   <img align="center" alt="dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
