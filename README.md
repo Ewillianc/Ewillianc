@@ -1,10 +1,16 @@
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
+
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+     Oi Tudo bem? Eu sou o
     <a href="https://www.linkedin.com/in/erick-willian-8140b2160/">Erick Willian 🤓</a>
+    <div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
   </h1>
-  
   <p align="center">
    Sou estudante de Analise e Desenvolvimento de Sistemas na UNIP 
   </p>
@@ -13,8 +19,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ewillianc" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ewillianc" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&username=ewillianc" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&username=ewillianc" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -33,3 +39,4 @@
 </div>
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer"/>
