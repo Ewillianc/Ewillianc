@@ -1,4 +1,7 @@
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:2d815d,200:b7410e&height=120&section=header"/>
+  
+</p>
+
 
 <div>
   
@@ -35,8 +38,8 @@
 <div align="center">
   <a href="https://www.instagram.com/ewillianc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E0204204F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erick-willian-8140b2160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:herickfilho6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:herickfilho6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-b7410e?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2d815d,200:b7410e&height=120&section=footer"/>
