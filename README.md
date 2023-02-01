@@ -9,10 +9,9 @@
      Oi Tudo bem? Eu sou o
     <a href="https://www.linkedin.com/in/erick-willian-8140b2160/">Erick Willian 🤓</a>
     <div align="center">
-  <img height="200" src=""  />
+  <img height="200" src="https://user-images.githubusercontent.com/89056202/216148145-12ab3758-2569-4884-b5b5-5cac4edbb8f5.gif"/>
 </div>
 
-###
   </h1>
   <p align="center">
    Sou estudante de Analise e Desenvolvimento de Sistemas na UNIP 
